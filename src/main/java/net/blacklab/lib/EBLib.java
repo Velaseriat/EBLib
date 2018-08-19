@@ -10,11 +10,11 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 		modid = "net.blacklab.lib",
 		name="EBLib",
 		version=EBLib.VERSION,
-		acceptedMinecraftVersions="[1.9.4,1.10.2]",
+		acceptedMinecraftVersions="[1.12.2]",
 		updateJSON = "http://mc.el-blacklab.net/eblib-version.json")
 public class EBLib {
 
-	public static final String VERSION="6.1.6.9";
+	public static final String VERSION="6.1.7.1";
 
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {

@@ -4,6 +4,7 @@
 /.classpath
 /.project
 /.gradle/
+/.idea/
 /eclipse/
 /EBLib_Client.launch
 /EBLib_Server.launch
@@ -13,3 +14,8 @@
 /options.txt
 /usercache.json
 /usernamecache.json
+/gradle/
+*.iml
+local.properties
+*.bat
+gradlew
